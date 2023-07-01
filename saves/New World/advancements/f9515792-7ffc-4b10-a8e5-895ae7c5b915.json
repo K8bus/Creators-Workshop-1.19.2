@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2023-07-01 16:36:14 +0200",
+      "minecraft:grove": "2023-07-01 16:26:56 +0200",
+      "minecraft:forest": "2023-07-01 16:22:12 +0200",
+      "minecraft:old_growth_birch_forest": "2023-07-01 16:19:26 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
