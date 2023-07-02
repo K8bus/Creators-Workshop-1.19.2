@@ -4495,249 +4495,6 @@
         }
       },
       {
-        "name": "Create Crafts & Additions",
-        "version": "createaddition-forge-1.19.2-20230623a",
-        "optional": true,
-        "file": "createaddition-1.19.2-20230623a.jar",
-        "type": "mods",
-        "description": "Electrifying the Create mod!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 439890,
-        "curseForgeFileId": 4605623,
-        "curseForgeProject": {
-          "id": 439890,
-          "name": "Create Crafts & Additions",
-          "authors": [
-            {
-              "id": 42029658,
-              "name": "MRHminer",
-              "url": "https://www.curseforge.com/members/42029658-mrhminer?username=mrhminer"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Electrifying the Create mod!",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 417,
-          "classId": 6,
-          "slug": "createaddition",
-          "isFeatured": false,
-          "dateModified": "2023-06-23T16:05:37.48Z",
-          "dateCreated": "2021-01-25T11:54:02.637Z",
-          "dateReleased": "2023-06-23T14:59:55.517Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/mrh0/createaddition/issues",
-            "sourceUrl": "https://github.com/mrh0/createaddition"
-          },
-          "logo": {
-            "id": 405250,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/405/250/256/256/637616939209778882.png",
-            "title": "637616939209778882.png",
-            "url": "https://media.forgecdn.net/avatars/405/250/637616939209778882.png",
-            "modId": 439890
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 511500,
-              "description": "Beta Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/500/310/172/cc-a_20221103a.png",
-              "title": "Beta Items 1.19",
-              "url": "https://media.forgecdn.net/attachments/511/500/cc-a_20221103a.png",
-              "modId": 439890
-            },
-            {
-              "id": 448215,
-              "description": "Release Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/448/215/310/172/createaddition_items_20220401a.png",
-              "title": "Release Items 1.18",
-              "url": "https://media.forgecdn.net/attachments/448/215/createaddition_items_20220401a.png",
-              "modId": 439890
-            },
-            {
-              "id": 337891,
-              "description": "Beta Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/337/891/310/172/alpha_items.png",
-              "title": "Beta Items 1 ",
-              "url": "https://media.forgecdn.net/attachments/337/891/alpha_items.png",
-              "modId": 439890
-            },
-            {
-              "id": 398057,
-              "description": "Release Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/398/57/310/172/createaddition_items.png",
-              "title": "Release Items 1.16",
-              "url": "https://media.forgecdn.net/attachments/398/57/createaddition_items.png",
-              "modId": 439890
-            },
-            {
-              "id": 352954,
-              "description": "Beta Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/352/954/310/172/beta_items.png",
-              "title": "Beta Items 2",
-              "url": "https://media.forgecdn.net/attachments/352/954/beta_items.png",
-              "modId": 439890
-            },
-            {
-              "id": 635284,
-              "description": "Release Items",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/284/310/172/cca_20230317a.png",
-              "title": "Release Items",
-              "url": "https://media.forgecdn.net/attachments/635/284/cca_20230317a.png",
-              "modId": 439890
-            }
-          ],
-          "mainFileId": 4605624
-        },
-        "curseForgeFile": {
-          "id": 4605623,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "createaddition-forge-1.19.2-20230623a",
-          "fileName": "createaddition-1.19.2-20230623a.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-06-23T14:59:23.567Z",
-          "fileLength": 1079678,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 328085,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 238222,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 282001,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 965294714,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1685873452,
-              "name": "com"
-            },
-            {
-              "fingerprint": 833142225,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2693430505,
-              "name": "createaddition.mixins.json"
-            },
-            {
-              "fingerprint": 1967089387,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1493072104,
-              "name": "createaddition.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "4315124b32124960fd09703a9ed882d3aa4f0bc4",
-              "algo": 1
-            },
-            {
-              "value": "379ad35071d0954a370bac2222f3e041",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.19.2",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 719928898,
-          "modId": 439890
-        }
-      },
-      {
         "name": "Create Deco",
         "version": "createdeco-1.3.3-1.19.2.jar",
         "optional": true,
@@ -6343,504 +6100,6 @@
           ],
           "fileFingerprint": 1179905182,
           "modId": 309927
-        }
-      },
-      {
-        "name": "Create: The Factory Must Grow",
-        "version": "createindustry-0.5.2d-1.19.2-yeehaw.jar",
-        "optional": true,
-        "file": "createindustry-0.5.2d-1.19.2-yeehaw.jar",
-        "type": "mods",
-        "description": "Heavy Engineering & Oil For The Create mod",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 693815,
-        "curseForgeFileId": 4616295,
-        "curseForgeProject": {
-          "id": 693815,
-          "name": "Create: The Factory Must Grow",
-          "authors": [
-            {
-              "id": 103113342,
-              "name": "Dr_Mango_Tea",
-              "url": "https://www.curseforge.com/members/103113342-dr_mango_tea?username=dr_mango_tea"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Heavy Engineering & Oil For The Create mod",
-          "categories": [
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 426,
-          "classId": 6,
-          "slug": "create-industry",
-          "isFeatured": false,
-          "dateModified": "2023-06-29T17:47:31.8Z",
-          "dateCreated": "2022-10-25T20:37:54.667Z",
-          "dateReleased": "2023-06-29T17:43:51.703Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-industry",
-            "wikiUrl": "",
-            "sourceUrl": "https://github.com/DrMango14/Create__The_Factory_Must_Grow"
-          },
-          "logo": {
-            "id": 839730,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/839/730/256/256/638233051787941166.png",
-            "title": "638233051787941166.png",
-            "url": "https://media.forgecdn.net/avatars/839/730/638233051787941166.png",
-            "modId": 693815
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 509167,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/509/167/310/172/2022-10-25_21.png",
-              "title": "Fwoomp",
-              "url": "https://media.forgecdn.net/attachments/509/167/2022-10-25_21.png",
-              "modId": 693815
-            },
-            {
-              "id": 511121,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/121/310/172/2022-11-02_17.png",
-              "title": "Steel Truss and Concrete",
-              "url": "https://media.forgecdn.net/attachments/511/121/2022-11-02_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 589978,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/589/978/310/172/2022-11-27_12.png",
-              "title": "Railings",
-              "url": "https://media.forgecdn.net/attachments/589/978/2022-11-27_12.png",
-              "modId": 693815
-            },
-            {
-              "id": 685545,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/545/310/172/2023-06-24_17.png",
-              "title": "Oil Refinery",
-              "url": "https://media.forgecdn.net/attachments/685/545/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 685552,
-              "description": "Thermite Grenade and Napalm Bomb",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/552/310/172/2023-06-24_17.png",
-              "title": "2 New Explosives",
-              "url": "https://media.forgecdn.net/attachments/685/552/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 685547,
-              "description": "Multiblock Machine to Power Larger Factories",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/547/310/172/2023-06-24_17.png",
-              "title": "Diesel Engine",
-              "url": "https://media.forgecdn.net/attachments/685/547/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 685549,
-              "description": "Steel Variant of The Fluid Tank\r\n",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/549/310/172/2023-06-24_17.png",
-              "title": "Steel Fluid Tank",
-              "url": "https://media.forgecdn.net/attachments/685/549/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 685550,
-              "description": "Multiblock Machine Used for Mining Oil",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/550/310/172/2023-06-24_17.png",
-              "title": "Pumpjack",
-              "url": "https://media.forgecdn.net/attachments/685/550/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 685551,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/551/310/172/2023-06-24_17.png",
-              "title": "Industrial Building Blocks",
-              "url": "https://media.forgecdn.net/attachments/685/551/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 511120,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/120/310/172/2022-10-30_15.png",
-              "title": "Concrete Colors",
-              "url": "https://media.forgecdn.net/attachments/511/120/2022-10-30_15.png",
-              "modId": 693815
-            },
-            {
-              "id": 685553,
-              "description": "Steel Casing & Heavy Machinery Casing",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/553/310/172/2023-06-24_17.png",
-              "title": "2 New Casings",
-              "url": "https://media.forgecdn.net/attachments/685/553/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 589976,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/589/976/310/172/2022-11-09_20.png",
-              "title": "Bauxite",
-              "url": "https://media.forgecdn.net/attachments/589/976/2022-11-09_20.png",
-              "modId": 693815
-            },
-            {
-              "id": 685554,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/685/554/310/172/2023-06-24_17.png",
-              "title": "Engines",
-              "url": "https://media.forgecdn.net/attachments/685/554/2023-06-24_17.png",
-              "modId": 693815
-            },
-            {
-              "id": 511123,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/123/310/172/unknown.png",
-              "title": "Lovin It",
-              "url": "https://media.forgecdn.net/attachments/511/123/unknown.png",
-              "modId": 693815
-            }
-          ],
-          "mainFileId": 4616295
-        },
-        "curseForgeFile": {
-          "id": 4616295,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "createindustry-0.5.2d-1.19.2-yeehaw.jar",
-          "fileName": "createindustry-0.5.2d-1.19.2-yeehaw.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-06-29T17:43:51.703Z",
-          "fileLength": 1568934,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 486392,
-              "relationType": 1
-            },
-            {
-              "fileId": 0,
-              "modId": 328085,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 394273012,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 293756689,
-              "name": "com"
-            },
-            {
-              "fingerprint": 1655232996,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2132565841,
-              "name": "createindustry.mixins.json"
-            },
-            {
-              "fingerprint": 1882255256,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2605401106,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 2404158407,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1493072104,
-              "name": "mixin.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "99fb77b58b4dffb341a605be5e2d20995a568b31",
-              "algo": 1
-            },
-            {
-              "value": "b097366e83a7e3e88fab21897780037a",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 3739686620,
-          "modId": 693815
-        }
-      },
-      {
-        "name": "Create: Structures",
-        "version": "v0.1.0",
-        "optional": true,
-        "file": "create-structures-0.1.0.jar",
-        "type": "mods",
-        "description": "Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 871698,
-        "curseForgeFileId": 4572780,
-        "curseForgeProject": {
-          "id": 871698,
-          "name": "Create: Structures",
-          "authors": [
-            {
-              "id": 102217477,
-              "name": "FusionSwarly",
-              "url": "https://www.curseforge.com/members/102217477-fusion_swarly?username=fusion_swarly"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 409,
-          "classId": 6,
-          "slug": "create-structures",
-          "isFeatured": false,
-          "dateModified": "2023-06-09T08:00:03.007Z",
-          "dateCreated": "2023-06-07T23:16:05.397Z",
-          "dateReleased": "2023-06-07T23:48:14.763Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-structures",
-            "issuesUrl": "https://github.com/FusionSwarly/Create-Structures/issues",
-            "sourceUrl": "https://github.com/FusionSwarly/Create-Structures"
-          },
-          "logo": {
-            "id": 829413,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/829/413/256/256/638217765654428709.png",
-            "title": "638217765654428709.png",
-            "url": "https://media.forgecdn.net/avatars/829/413/638217765654428709.png",
-            "modId": 871698
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 673896,
-              "description": "",
-              "thumbnailUrl": "/Content/2-0-8558-27642/skins/global/images/ui/document-generic.png",
-              "title": "A savanna village windmill.",
-              "url": "https://media.forgecdn.net/attachments/673/896/acacia-windmill-1.png",
-              "modId": 871698
-            },
-            {
-              "id": 673893,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/893/310/172/plains-windmill-3.png",
-              "title": "A village windmill in a forest.",
-              "url": "https://media.forgecdn.net/attachments/673/893/plains-windmill-3.png",
-              "modId": 871698
-            },
-            {
-              "id": 673889,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/889/310/172/taiga-windmill-1.png",
-              "title": "A taiga village windmill.",
-              "url": "https://media.forgecdn.net/attachments/673/889/taiga-windmill-1.png",
-              "modId": 871698
-            },
-            {
-              "id": 673899,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/899/310/172/plains-windmill-zombie-1.png",
-              "title": "A zombie village windmill.",
-              "url": "https://media.forgecdn.net/attachments/673/899/plains-windmill-zombie-1.png",
-              "modId": 871698
-            },
-            {
-              "id": 673892,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/892/310/172/snowy-windmill-1.png",
-              "title": "A windmill in a snowy village.",
-              "url": "https://media.forgecdn.net/attachments/673/892/snowy-windmill-1.png",
-              "modId": 871698
-            },
-            {
-              "id": 673888,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/888/310/172/plains-windmill-1.png",
-              "title": "A plains village windmill.",
-              "url": "https://media.forgecdn.net/attachments/673/888/plains-windmill-1.png",
-              "modId": 871698
-            },
-            {
-              "id": 673891,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/673/891/310/172/desert-watermill-2.png",
-              "title": "A water mill in a desert village.",
-              "url": "https://media.forgecdn.net/attachments/673/891/desert-watermill-2.png",
-              "modId": 871698
-            }
-          ],
-          "mainFileId": 4572780
-        },
-        "curseForgeFile": {
-          "id": 4572780,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "v0.1.0",
-          "fileName": "create-structures-0.1.0.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2023-06-07T23:48:14.763Z",
-          "fileLength": 354077,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4215647636,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2696626312,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 345109768,
-              "name": "pack.png"
-            },
-            {
-              "fingerprint": 4139786084,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 345109768,
-              "name": "create-structures_pack.png"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "01ad7c7ff30e933e9ba99c94fb36637d8e3ae87e",
-              "algo": 1
-            },
-            {
-              "value": "002aaeccea38f4f994472b9253b1dcae",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 3768333069,
-          "modId": 871698
         }
       },
       {
@@ -17268,226 +16527,6 @@
         }
       },
       {
-        "name": "YUNG's Better Witch Huts (Forge)",
-        "version": " [1.19.2] YUNG's Better Witch Huts v2.1.0 (Forge)",
-        "optional": true,
-        "file": "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
-        "type": "mods",
-        "description": "Adds overhauled witch huts to swamps!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 631401,
-        "curseForgeFileId": 4031226,
-        "curseForgeProject": {
-          "id": 631401,
-          "name": "YUNG's Better Witch Huts (Forge)",
-          "authors": [
-            {
-              "id": 40421595,
-              "name": "YUNGNICKYOUNG",
-              "url": "https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung"
-            },
-            {
-              "id": 102094599,
-              "name": "EveCommander",
-              "url": "https://www.curseforge.com/members/102094599-evecommander?username=evecommander"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds overhauled witch huts to swamps!",
-          "categories": [
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 409,
-          "classId": 6,
-          "slug": "yungs-better-witch-huts",
-          "isFeatured": false,
-          "dateModified": "2023-03-24T01:20:58.797Z",
-          "dateCreated": "2022-06-07T04:46:41.24Z",
-          "dateReleased": "2023-03-24T01:17:21.507Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts/issues",
-            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts"
-          },
-          "logo": {
-            "id": 556558,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/556/558/256/256/637901740012774355.png",
-            "title": "637901740012774355.png",
-            "url": "https://media.forgecdn.net/avatars/556/558/637901740012774355.png",
-            "modId": 631401
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 467387,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/387/310/172/2022-06-07_00.png",
-              "title": "Duplex witch hut",
-              "url": "https://media.forgecdn.net/attachments/467/387/2022-06-07_00.png",
-              "modId": 631401
-            },
-            {
-              "id": 467389,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/389/310/172/2022-06-07_00.png",
-              "title": "A witch's circle",
-              "url": "https://media.forgecdn.net/attachments/467/389/2022-06-07_00.png",
-              "modId": 631401
-            },
-            {
-              "id": 467386,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/386/310/172/2022-06-07_00.png",
-              "title": "Small witch hut",
-              "url": "https://media.forgecdn.net/attachments/467/386/2022-06-07_00.png",
-              "modId": 631401
-            },
-            {
-              "id": 467388,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/388/310/172/2022-06-07_00.png",
-              "title": "Large witch hut",
-              "url": "https://media.forgecdn.net/attachments/467/388/2022-06-07_00.png",
-              "modId": 631401
-            }
-          ],
-          "mainFileId": 4454288
-        },
-        "curseForgeFile": {
-          "id": 4031226,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": " [1.19.2] YUNG's Better Witch Huts v2.1.0 (Forge)",
-          "fileName": "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-10-16T19:33:54.66Z",
-          "fileLength": 241850,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 421850,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1840311633,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2209940082,
-              "name": "com"
-            },
-            {
-              "fingerprint": 10925406,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 951184000,
-              "name": "betterwitchhuts.mixins.json"
-            },
-            {
-              "fingerprint": 2023491764,
-              "name": "betterwitchhuts_forge.mixins.json"
-            },
-            {
-              "fingerprint": 442853239,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3002008272,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 2045790207,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1718112697,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3050162157,
-              "name": "betterwitchhuts.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c1a2d60217e127d5cf6683bae6b3dfa5c1afa284",
-              "algo": 1
-            },
-            {
-              "value": "352e986c69027ba98cff3f87d8358fcc",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2571769228,
-          "modId": 631401
-        }
-      },
-      {
         "name": "Towns and Towers",
         "version": "(1.19.2) Towns and Towers v1.10.0 (Forge)",
         "optional": true,
@@ -20079,13 +19118,896 @@
           "fileFingerprint": 2223772119,
           "modId": 470193
         }
+      },
+      {
+        "name": "Just Enough Items (JEI)",
+        "version": "jei-1.19.2-forge-11.6.0.1016.jar",
+        "optional": true,
+        "file": "jei-1.19.2-forge-11.6.0.1016.jar",
+        "type": "mods",
+        "description": "View Items and Recipes",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 238222,
+        "curseForgeFileId": 4615177,
+        "curseForgeProject": {
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "authors": [
+            {
+              "id": 17072262,
+              "name": "mezz",
+              "url": "https://www.curseforge.com/members/17072262-mezz?username=mezz"
+            }
+          ],
+          "gameId": 432,
+          "summary": "View Items and Recipes",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jei",
+          "isFeatured": false,
+          "dateModified": "2023-06-29T02:56:02.493Z",
+          "dateCreated": "2015-11-23T22:55:58.84Z",
+          "dateReleased": "2023-06-29T02:51:10.433Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
+          },
+          "logo": {
+            "id": 29069,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+            "title": "635838945588716414.jpeg",
+            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
+            "modId": 238222
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 31417,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
+              "title": "Recipe Completion",
+              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
+              "modId": 238222
+            },
+            {
+              "id": 31419,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
+              "title": "Potions",
+              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+              "modId": 238222
+            },
+            {
+              "id": 31420,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
+              "title": "Itemlist Edit Mode",
+              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
+              "modId": 238222
+            },
+            {
+              "id": 31418,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
+              "title": "Big Screen Support",
+              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
+              "modId": 238222
+            }
+          ],
+          "mainFileId": 4593548
+        },
+        "curseForgeFile": {
+          "id": 4615177,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "jei-1.19.2-forge-11.6.0.1016.jar",
+          "fileName": "jei-1.19.2-forge-11.6.0.1016.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-06-29T02:51:10.433Z",
+          "fileLength": 1090499,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3186904263,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2041176697,
+              "name": "mezz"
+            },
+            {
+              "fingerprint": 1550930300,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3065967970,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2007185424,
+              "name": "jei-icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9a3ab559d678756ca50f49e4ea6487e43068af44",
+              "algo": 1
+            },
+            {
+              "value": "05f4ea9c27d3f01d04f8264bcc6e1247",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 1639277599,
+          "modId": 238222
+        }
+      },
+      {
+        "name": "Create Confectionery",
+        "version": "create-confectionery1.19.2_v1.0.9.jar",
+        "optional": true,
+        "file": "create-confectionery1.19.2_v1.0.9.jar",
+        "type": "mods",
+        "description": "? Create your own Chocolate Factory !",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 531834,
+        "curseForgeFileId": 4561123,
+        "curseForgeProject": {
+          "id": 531834,
+          "name": "Create Confectionery",
+          "authors": [
+            {
+              "id": 100003024,
+              "name": "Furti_Two",
+              "url": "https://www.curseforge.com/members/100003024-furti_two?username=furti_two"
+            }
+          ],
+          "gameId": 432,
+          "summary": "? Create your own Chocolate Factory !",
+          "categories": [
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "create-confectionery",
+          "isFeatured": false,
+          "dateModified": "2023-06-28T17:29:47.193Z",
+          "dateCreated": "2021-09-27T18:18:26.123Z",
+          "dateReleased": "2023-05-31T20:36:02.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-confectionery",
+            "wikiUrl": "",
+            "sourceUrl": "https://www.curseforge.com/minecraft/mc-mods/create-confectionery"
+          },
+          "logo": {
+            "id": 798624,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/798/624/256/256/638160519853126907.png",
+            "title": "638160519853126907.png",
+            "url": "https://media.forgecdn.net/avatars/798/624/638160519853126907.png",
+            "modId": 531834
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 397616,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/397/616/310/172/2021-09-27_23.png",
+              "title": "Creative Tab",
+              "url": "https://media.forgecdn.net/attachments/397/616/2021-09-27_23.png",
+              "modId": 531834
+            }
+          ],
+          "mainFileId": 4561123
+        },
+        "curseForgeFile": {
+          "id": 4561123,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "create-confectionery1.19.2_v1.0.9.jar",
+          "fileName": "create-confectionery1.19.2_v1.0.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-31T20:36:02.823Z",
+          "fileLength": 2121033,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4063407443,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3418004994,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2559721939,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4077557902,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2716617425,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1806841235,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "110acb4b8c5c2acd7dfb3f9a2b9cfbfd60d90be1",
+              "algo": 1
+            },
+            {
+              "value": "9a58601f3816fc1c40905749bbb9f050",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.19.2",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 724699310,
+          "modId": 531834
+        }
+      },
+      {
+        "name": "Snow Under Trees",
+        "version": "snowundertrees-1.19.2-1.3.1.jar",
+        "optional": true,
+        "file": "snowundertrees-1.19.2-1.3.1.jar",
+        "type": "mods",
+        "description": "Adds snow under trees in snowy biomes",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 353942,
+        "curseForgeFileId": 4199870,
+        "curseForgeProject": {
+          "id": 353942,
+          "name": "Snow Under Trees",
+          "authors": [
+            {
+              "id": 7876752,
+              "name": "bl4ckscor3",
+              "url": "https://www.curseforge.com/members/7876752-bl4ckscor3?username=bl4ckscor3"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds snow under trees in snowy biomes",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "snow-under-trees",
+          "isFeatured": false,
+          "dateModified": "2023-06-12T15:42:37.64Z",
+          "dateCreated": "2019-12-07T11:38:26.317Z",
+          "dateReleased": "2023-06-12T14:08:05.22Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/snow-under-trees",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/bl4ckscor3/SnowUnderTrees/issues",
+            "sourceUrl": "https://github.com/bl4ckscor3/SnowUnderTrees"
+          },
+          "logo": {
+            "id": 239303,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/239/303/256/256/637113155063476998.png",
+            "title": "637113155063476998.png",
+            "url": "https://media.forgecdn.net/avatars/239/303/637113155063476998.png",
+            "modId": 353942
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 271688,
+              "description": "This is a vanilla Snowy Taiga that was generated without this mod installed.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/271/688/310/172/before.png",
+              "title": "Before",
+              "url": "https://media.forgecdn.net/attachments/271/688/before.png",
+              "modId": 353942
+            },
+            {
+              "id": 271689,
+              "description": "This is a vanilla Snowy Taiga that was generated with this mod installed.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/271/689/310/172/after.png",
+              "title": "After",
+              "url": "https://media.forgecdn.net/attachments/271/689/after.png",
+              "modId": 353942
+            }
+          ],
+          "mainFileId": 4582356
+        },
+        "curseForgeFile": {
+          "id": 4199870,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "snowundertrees-1.19.2-1.3.1.jar",
+          "fileName": "snowundertrees-1.19.2-1.3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-12-18T20:27:23.907Z",
+          "fileLength": 22013,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 468870100,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2909537375,
+              "name": "bl4ckscor3"
+            },
+            {
+              "fingerprint": 391530465,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2770650089,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9f207db4fd09b53e6402e6ae82ff1d2504d619b7",
+              "algo": 1
+            },
+            {
+              "value": "dfd54674852ac11894fda51efc7facd6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2629987791,
+          "modId": 353942
+        }
+      },
+      {
+        "name": "Traveler's Backpack",
+        "version": "TravelersBackpack-1.19.2-8.2.29.jar",
+        "optional": true,
+        "file": "TravelersBackpack-1.19.2-8.2.29.jar",
+        "type": "mods",
+        "description": "The official port of Adventure Backpack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 321117,
+        "curseForgeFileId": 4612517,
+        "curseForgeProject": {
+          "id": 321117,
+          "name": "Traveler's Backpack",
+          "authors": [
+            {
+              "id": 27133119,
+              "name": "Tiviacz1337",
+              "url": "https://www.curseforge.com/members/27133119-tiviacz1337?username=tiviacz1337"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The official port of Adventure Backpack",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "travelers-backpack",
+          "isFeatured": false,
+          "dateModified": "2023-06-27T17:18:30.97Z",
+          "dateCreated": "2019-05-07T20:45:40.55Z",
+          "dateReleased": "2023-06-27T17:15:05.827Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/travelers-backpack",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Tiviacz1337/Travelers-Backpack/issues",
+            "sourceUrl": "https://github.com/Tiviacz1337/Travelers-Backpack"
+          },
+          "logo": {
+            "id": 623755,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/623/755/256/256/638018179275684974_animated.gif",
+            "title": "638018179275684974.gif",
+            "url": "https://media.forgecdn.net/avatars/623/755/638018179275684974.gif",
+            "modId": 321117
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 405189,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/405/189/310/172/scr3.png",
+              "title": "In a natural environment",
+              "url": "https://media.forgecdn.net/attachments/405/189/scr3.png",
+              "modId": 321117
+            },
+            {
+              "id": 405188,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/405/188/310/172/2021-10-31_16.png",
+              "title": "Adventure begins with gear!",
+              "url": "https://media.forgecdn.net/attachments/405/188/2021-10-31_16.png",
+              "modId": 321117
+            },
+            {
+              "id": 473205,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/473/205/310/172/sand1.png",
+              "title": "Sandstone Backpack",
+              "url": "https://media.forgecdn.net/attachments/473/205/sand1.png",
+              "modId": 321117
+            },
+            {
+              "id": 405190,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/405/190/310/172/scr6.png",
+              "title": "Ready to go",
+              "url": "https://media.forgecdn.net/attachments/405/190/scr6.png",
+              "modId": 321117
+            }
+          ],
+          "mainFileId": 4612520
+        },
+        "curseForgeFile": {
+          "id": 4612517,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "TravelersBackpack-1.19.2-8.2.29.jar",
+          "fileName": "TravelersBackpack-1.19.2-8.2.29.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-27T17:13:28.737Z",
+          "fileLength": 828186,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1450092413,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2129355859,
+              "name": "com"
+            },
+            {
+              "fingerprint": 936683592,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3094131976,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2376099853,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4219635113,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "74203c30c915d337b3102e06eca48bb1de5346ea",
+              "algo": 1
+            },
+            {
+              "value": "97a51a56b1f89550f81cc60e5d8ada37",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2309958511,
+          "modId": 321117
+        }
+      },
+      {
+        "name": "Creator's Workshop Patches",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Creator's Workshop Patches.zip",
+        "type": "resourcepack",
+        "description": "Texture Changes for Creator's Workshop Modpack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "sJctzfmq",
+          "slug": "creators-workshop-patches",
+          "project_type": "resourcepack",
+          "team": "aJcgYqMT",
+          "title": "Creator's Workshop Patches",
+          "description": "Texture Changes for Creator's Workshop Modpack",
+          "body": "Resource Pack changing some minecraft and modded textures to fit Creator's Workshop Style.\n\nModpack link: https://modrinth.com/modpack/creators-workshop\n\nGuis:\nTraveler's Backpack; \nBetter Advancements; \nWoodworks; \nClayworks; \nMinecraft.",
+          "published": "2023-04-17T18:37:46.873645Z",
+          "updated": "2023-05-15T17:06:52.884291Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "16x",
+            "gui",
+            "themed"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/sJctzfmq/6a34bd6aa9cc6a5e404473ebd50afee70c6899e4.png",
+          "discord_url": "https://discord.gg/Sk2s6UYe3V",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "PayPal",
+              "url": "https://www.paypal.me/k8bus"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/8802cc10f45ffe6e638efae74353ab9c1b9edc0b.png",
+              "featured": false,
+              "title": "Advancements",
+              "created": "2023-04-19T15:32:34.393644Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/eb1ce6d157e274ac4ab5a76c4521b24c88048919.png",
+              "featured": false,
+              "title": "Crafting Table",
+              "created": "2023-04-19T15:33:05.044966Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/ab8fc3d8ddfee2bbbb50cb04fa855e9140a50965.png",
+              "featured": true,
+              "title": "Creative Mode GUI with resource pack",
+              "created": "2023-04-18T18:54:56.011370Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/8c60e687965f5bfc584adfd51380b8f5b961638e.png",
+              "featured": false,
+              "title": "Kiln from Abnormals Clayworks",
+              "created": "2023-04-19T15:37:05.808952Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/10201aac6c88aa10813ab6e235a089e64966fe25.png",
+              "featured": false,
+              "title": "Sawmill from Abnormals Woodworks",
+              "created": "2023-04-19T15:36:35.014726Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/40a3287286cb8b836d16ca637048a0a5841eb7da.png",
+              "featured": false,
+              "title": "Settings",
+              "created": "2023-04-19T15:32:18.743194Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/177e0330e2218f9c080597883f5600315cecae25.png",
+              "featured": false,
+              "title": "SinglePlayer screen",
+              "created": "2023-04-19T15:33:32.874350Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/images/e6ab15363e38aac5bfaf732f6d98201ef62c50f0.png",
+              "featured": false,
+              "title": "Villager trading screen",
+              "created": "2023-04-19T15:34:17.818866Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "nzvBkGpC",
+          "project_id": "sJctzfmq",
+          "author_id": "fwUg8vPX",
+          "name": "v2",
+          "version_number": "v2",
+          "changelog": "Added Traveler's Backpack",
+          "date_published": "2023-05-15T17:06:53.493002Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "ce1b8ec06e388821eecb6678369c750b93e79469",
+                "sha512": "7486009a181bdb8b5a4eb2df7d9f015fa0ba5635f45fbb194cd22425b3cb1a66fb7f5de22e07a8cf0ba90388058fd5fe1d7e54b10706c0af3421cf15c9eae5a3"
+              },
+              "url": "https://cdn.modrinth.com/data/sJctzfmq/versions/nzvBkGpC/Creator%27s%20Workshop%20Patches.zip",
+              "filename": "Creator's Workshop Patches.zip",
+              "primary": true,
+              "size": 121418
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1688286714746,
-    "numPlays": 18
+    "lastPlayed": 1688303485345,
+    "numPlays": 26
   },
   "id": "1.19.2",
   "complianceLevel": 1,
